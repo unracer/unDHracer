@@ -1,5 +1,5 @@
 # unDHracer
-mobile game
+mobile game for fun with your friends
 ## in developing  
 future:  
  - multipleer  
